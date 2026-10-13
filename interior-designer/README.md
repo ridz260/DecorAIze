@@ -1,1 +1,1 @@
-# <center> AI INterior Designer <center>
+# <center> AI Interior Designer <center>
